@@ -1,0 +1,14 @@
+inteiro ano_atual = hora.agora.ano
+            escreva("Em que ano você nasceu?")
+            inteiro ano_nasc  
+            leia(ano_nasc)
+            inteiro idade = ano_atual - ano_nasc
+            se idade <=15{
+                escreva("Ainda não há idade para votar.")
+            }
+            senao se idade >=18 e idade <=70{
+                escreva("O voto é obrigatório.")
+            }
+            senao{
+                escreva("O voto é opcional.")
+            }

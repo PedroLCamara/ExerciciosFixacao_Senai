@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.exe
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.deps.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.runtimeconfig.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\ref\EX4.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\bin\Debug\net5.0\EX4.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\ref\EX4.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExerciciosFixacao\EX4\obj\Debug\net5.0\EX4.genruntimeconfig.cache
